@@ -37,7 +37,7 @@ Je suis également un sysadmin, et j'aime m'occuper de la gestion et de la maint
 
 ### Mes statistiques GitHub :
 
-  ![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=OTrosh&show_icons=true&count_private=true&hide=prs&theme=radical)
+  ![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=OzirusDev&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ### Ce que je fais actuellement :
 
