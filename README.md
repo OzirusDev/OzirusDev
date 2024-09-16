@@ -3,7 +3,7 @@
 Je suis passionné de développement et je me spécialise dans plusieurs langages.
 
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  ![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
        alt="snake" /></a>
 </div>
 
